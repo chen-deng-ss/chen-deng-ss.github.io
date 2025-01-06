@@ -1,0 +1,31 @@
+name: Docs
+on: [push, pull_request, workflow_dispatch]
+permissions:
+    contents: write
+jobs:
+  docs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v3
+      - name: Install dependencies
+        run: |
+          pip install sphinx 
+          pip install sphinxcontrib.fulltoc
+          pip install sphinxcontrib.video
+      - name: Sphinx build
+        run: |
+          sphinx-build doc _build
+      - name: Mod Theme Color
+        run: |
+          sed -i 's/#336699/#181C62/g' _build/_static/bizstyle.css 
+          sed -i -E '/^div.footer/,+2 s/white/#D71440/' _build/_static/bizstyle.css 
+          sed -i -E '/^div.footer/,+2 s/#181C62/#FFFFFF/' _build/_static/bizstyle.css 
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
+        with:
+          publish_branch: gh-pages
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: _build/
+          force_orphan: true
