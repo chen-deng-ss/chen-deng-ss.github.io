@@ -3,7 +3,7 @@ Miscellaneous
 
 Contact
 -------
-chen-estelle dot deng@connect dot polyu dot hk
+chen-estelle dot deng at connect dot polyu dot hk
 
 Links
 -----
