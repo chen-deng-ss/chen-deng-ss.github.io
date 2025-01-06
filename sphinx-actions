@@ -1,3 +1,0 @@
-- name: Sphinx Docs
-  uses: ahmad88me/sphinx-docs-action@v0.8
-            
