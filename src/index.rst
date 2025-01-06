@@ -20,7 +20,7 @@ DENG Chen
    :caption: Contents:
 
    Research
-   Internship & Program
+   intern
    Miscellaneous
 
 
