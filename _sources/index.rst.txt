@@ -6,13 +6,14 @@ Homepage
 ========
 Welcome to Deng Chen's Homepage!
 
-.. image:: resources/recent.jpg
+.. image:: resources/35-49.jpg
    :align: right
    :width: 150
 
-*Ph.D. Candidate Poly HK.*
+*Ph.D. Candidate HKPolyU.*
 
-Deng Chen
+DENG Chen
+
 
 .. toctree::
    :maxdepth: 1
@@ -20,6 +21,7 @@ Deng Chen
 
    Research
    Miscellaneous
+
 
 
 
