@@ -22,21 +22,23 @@ Publications
 
 #. Deng, C*. (2021). The Analysis of Psychological Factors of Different Subjects in School Bullying: Based on the Perspective of Positive Psychology. Adolescent and Children's Studies (08), 55-60+9.
 
+*(Corresponding authors are marked with *)* 
+
 Conference Presentation
 -----------------------
-#. Deng, C., & Yu, L. (2024, Jun 1-3). Cumulative Ecological Risks and Mental Health Problems among Chinese Rural Adolescents: The Role of Psychological and Family Resilience *[Paper presentation]*. 2024 APISWEA International Conference, Chengdu, China.
+*  Deng, C., & Yu, L. (2024, Jun 1-3). Cumulative Ecological Risks and Mental Health Problems among Chinese Rural Adolescents: The Role of Psychological and Family Resilience *[Paper presentation]*. 2024 APISWEA International Conference, Chengdu, China.
 
-#. Deng, C. (2024, May 20-24). Cumulative Risk and Mental Health Problems among Chinese Rural Left-behind Adolescents: The Moderating Role of Family Resilience *[Paper presentation]*. IACAPAP 2024 International Conference, Rio de Janeiro, Brazil.
+*  Deng, C. (2024, May 20-24). Cumulative Risk and Mental Health Problems among Chinese Rural Left-behind Adolescents: The Moderating Role of Family Resilience *[Paper presentation]*. IACAPAP 2024 International Conference, Rio de Janeiro, Brazil.
 
-#. Deng, C., Yu, L., Shek, D. T. L., & Zhu X. (2024, Jan 10-14). Family Functioning and Adolescents Behavioral Problems in Mainland China: Positive Youth Development as a Mediator *[Poster presentation]*. 2024 Society for Social Work and Research Annual Conference, Washington, DC, United States.
+* Deng, C., Yu, L., Shek, D. T. L., & Zhu X. (2024, Jan 10-14). Family Functioning and Adolescents Behavioral Problems in Mainland China: Positive Youth Development as a Mediator *[Poster presentation]*. 2024 Society for Social Work and Research Annual Conference, Washington, DC, United States.
 
-#. Deng, C., Yu, L., Zhu X., & Shek, D. T. L. (2022, Jun 22-25). Meaning in Life of Chinese Children: Its Relationships with Mental Health and Physical Exercise Hours for Primary School Students in Mainland China Before and After the Outbreak of the COVID-19 *[Paper presentation]*. Meaning in Life 2022 International Conference, Hong Kong SRA, China.
+* Deng, C., Yu, L., Zhu X., & Shek, D. T. L. (2022, Jun 22-25). Meaning in Life of Chinese Children: Its Relationships with Mental Health and Physical Exercise Hours for Primary School Students in Mainland China Before and After the Outbreak of the COVID-19 *[Paper presentation]*. Meaning in Life 2022 International Conference, Hong Kong SRA, China.
 
-#. Deng, C., & Yu, L. (2022, Mar 3-5). Hong Kong Secondary School Students’ Participation in Violent Political Activities: Patterns and Correlates *[Paper presentation]*. 2022 Biennial Meeting of the Society for Research on Adolescence, New Orleans, Louisiana, United States.
+* Deng, C., & Yu, L. (2022, Mar 3-5). Hong Kong Secondary School Students’ Participation in Violent Political Activities: Patterns and Correlates *[Paper presentation]*. 2022 Biennial Meeting of the Society for Research on Adolescence, New Orleans, Louisiana, United States.
 
-#. Deng, C., Yu, L., & Shek, D. T. L. (2022, Jan 8). Chinese adolescents’ problem behaviors before and after the outbreak of COVID-19: Predictive effects of positive youth development attributes and family functioning *[Paper presentation]*. Hong Kong Sociology Association 22nd Annual Meeting, Hong Kong SRA, China.
+* Deng, C., Yu, L., & Shek, D. T. L. (2022, Jan 8). Chinese adolescents’ problem behaviors before and after the outbreak of COVID-19: Predictive effects of positive youth development attributes and family functioning *[Paper presentation]*. Hong Kong Sociology Association 22nd Annual Meeting, Hong Kong SRA, China.
 
-#. Deng, C. (2020, Dec 28). Analysis of the social work dilemma in child abuse intervention: A case study of children from a disadvantaged family. Postgraduate Forum of the 2020 Annual Conference of the China Association of Social Work Education, Shanghai, China.
+* Deng, C. (2020, Dec 28). Analysis of the social work dilemma in child abuse intervention: A case study of children from a disadvantaged family. Postgraduate Forum of the 2020 Annual Conference of the China Association of Social Work Education, Shanghai, China.
 
 
 Vita
