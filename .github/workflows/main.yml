@@ -16,6 +16,11 @@ jobs:
       - name: Sphinx build
         run: |
           sphinx-build src _build
+      - name: Mod Theme Color
+        run: |
+          sed -i 's/#336699/#565656/g' _build/_static/bizstyle.css 
+          sed -i -E '/^div.footer/,+2 s/white/#A02337/' _build/_static/bizstyle.css 
+          sed -i -E '/^div.footer/,+2 s/#565656/#FFFFFF/' _build/_static/bizstyle.css 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
