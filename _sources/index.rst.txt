@@ -7,7 +7,7 @@ Homepage
 Welcome to Deng Chen's Homepage!
 
 .. image:: resources/35-49.jpg
-   :align: right
+   :align: left
    :width: 200
 
 *Ph.D. Candidate HKPolyU.*
