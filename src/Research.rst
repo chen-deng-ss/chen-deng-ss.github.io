@@ -47,6 +47,9 @@ Publications
 
 Conference Presentation
 -----------------------
+* Deng, C., Yu, L., & Ren Y. (2024, Jan 15-19). From Stability to Change: Family Resilience among Chinese Rural Left-Behind Adolescents  *[Paper presentation]*. 2025 Society for Social Work and Research Annual Conference, Seattle, WA, United States.
+
+
 *  Deng, C., & Yu, L. (2024, Jun 1-3). Cumulative Ecological Risks and Mental Health Problems among Chinese Rural Adolescents: The Role of Psychological and Family Resilience *[Paper presentation]*. 2024 APISWEA International Conference, Chengdu, China.
 
 *  Deng, C. (2024, May 20-24). Cumulative Risk and Mental Health Problems among Chinese Rural Left-behind Adolescents: The Moderating Role of Family Resilience *[Paper presentation]*. IACAPAP 2024 International Conference, Rio de Janeiro, Brazil.
@@ -60,6 +63,11 @@ Conference Presentation
 * Deng, C., Yu, L., & Shek, D. T. L. (2022, Jan 8). Chinese adolescents’ problem behaviors before and after the outbreak of COVID-19: Predictive effects of positive youth development attributes and family functioning *[Paper presentation]*. Hong Kong Sociology Association 22nd Annual Meeting, Hong Kong SRA, China.
 
 * Deng, C. (2020, Dec 28). Analysis of the social work dilemma in child abuse intervention: A case study of children from a disadvantaged family. Postgraduate Forum of the 2020 Annual Conference of the China Association of Social Work Education, Shanghai, China.
+
+Visiting experiences
+---------
+* University of Chicago: Jan - Jun, 2023, hosted by Dr. Ma Zhiying
+
 
 
 Vita
