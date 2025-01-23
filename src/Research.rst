@@ -20,7 +20,7 @@ My research focuses on the psychological and social well-being of children and a
 
 Through a strength-based lens, I explore how resilience, positive youth development, and meaning in life can buffer the effects of ecological risks, family dysfunction, and broader societal challenges. 
 
-**I am currently excited about:**
+**I am currently interested in:**
 
 * Child and Adolescent Mental Health
 
@@ -84,3 +84,4 @@ Visiting experiences
 
 Vita
 ----
+It can be found :download:`here <resources/cv.pdf>`. A updated version will be avaialbe upon request.
