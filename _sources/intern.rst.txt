@@ -10,7 +10,7 @@ Principle Investigator
 
 **"Transformation Project" of the Social Work Department of SICAU, Sichuan Province, China**
 
-*2017.09–2018.06*
+*2017.9–2018.6, Department of Social Work, SICAU*
 
 - Led a multidisciplinary team in designing and implementing a project aimed at improving the socialization and resocialization of children with intellectual disabilities.  
 
@@ -26,9 +26,7 @@ Project Assistant
 
 **China Rural Vulnerable Children Social Work Workshop, China**  
 
-*2023.01–2024.06*  
-
-*Jointly Organized by Hong Kong Polytechnic University, Peking University, and the University of Chicago*  
+*2023.01–2024.06, Jointly Organized by Hong Kong Polytechnic University, Peking University, and the University of Chicago*  
 
 - Engaged in a collaborative international workshop focused on addressing the challenges faced by vulnerable children in rural China.  
 
@@ -40,7 +38,7 @@ Project Assistant
 
 **Social Worker Talent Training Project of Ya'an, Sichuan Province, China** 
 
-*2016–2017*
+*2016–2017, Department of Social Work, SICAU*
 
 - Supported the implementation of a comprehensive training program aimed at enhancing the skills and capacity of frontline social workers in Ya'an.  
 
@@ -48,7 +46,7 @@ Project Assistant
 
 - Contributed to the development of training materials and resources to support the professional growth of social workers in the region.  
 
-Research Surveys
+Research Assistant
 ---------
 
 **Investigation on the Protection of Minors’ Rights and Interests in China**
