@@ -1,16 +1,7 @@
 Research
 ========
-Background
+Academic Qualifications
 ---------
-**Academic Mentors**
-
-* Undergraduate Supervisor: Dr. ZHU Yuxin
-
-* MSW Supervisor: Prof. WAN Guowei
-
-* PhD Supervisor: Dr. YU Lu
-
-**Academic Qualifications**
 
 * *2021–Present*, PhD Candidate
 
