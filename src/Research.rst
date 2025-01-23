@@ -4,15 +4,12 @@ Academic Qualifications
 ---------
 
 * *2021–Present*, PhD Candidate
-
 Department of Applied Social Sciences, The Hong Kong Polytechnic University
 
 * *2019–2021*, Master of Social Work (MSW)
-
 Department of Social Work and Social Policy, Nankai University
 
 * *2015–2019*, Bachelor of Laws (LL.B)
-
 Department of Social Work, Sichuan Agricultural University
 
 
