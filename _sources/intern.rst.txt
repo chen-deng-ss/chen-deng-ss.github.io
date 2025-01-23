@@ -51,7 +51,7 @@ Research Assistant
 
 **Investigation on the Protection of Minors’ Rights and Interests in China**
 
-*2019.10–2019.12* 
+*2019.10–2019.12, NKU* 
 
 - Collected quantitative information and conducted in-depth interviews on the rights and welfare of left-behind children in China.  
 
@@ -59,7 +59,7 @@ Research Assistant
 
 **Investigation on Social Work Organizations in Sichuan Province**
 
-*2016.09–2016.12*  
+*2016.09–2016.12, SICAU*  
 
 - Designed and distributed questionnaires to collect data from key stakeholders, including social workers, community leaders, and government officers.  
 
