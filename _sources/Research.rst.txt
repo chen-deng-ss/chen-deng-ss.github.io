@@ -84,4 +84,4 @@ Visiting experiences
 
 Vita
 ----
-A updated cv will be avaialbe upon request.
+An updated cv will be avaialbe upon request.
