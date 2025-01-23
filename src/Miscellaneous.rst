@@ -11,7 +11,7 @@ Outside of my academic pursuits, I am passionate about exploring diverse sports,
 
 I am also drawn to the beauty of nature and enjoy hiking as a way to recharge and connect with the outdoors.
 
-In my downtime, I immerse myself in books, with a special fondness for sci-fi, detective, and romance novels. Agatha Christie, with her masterful storytelling, remains one of my favorite authors, offering both intrigue and inspiration.
+In my downtime, I immerse myself in books, with a special fondness for sci-fi, detective, and romance novels. One of my favorite authors is Agatha Christie.
 
 .. image:: resources/hiking.jpg
    :align: left
