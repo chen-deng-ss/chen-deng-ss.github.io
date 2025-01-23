@@ -12,7 +12,9 @@ Welcome to Deng Chen's Homepage!
 
 *Ph.D. Candidate HKPolyU.*
 
-DENG Chen
+*Assistant Social Worker in Mainland China*
+
+**DENG Chen**
 
 
 .. toctree::
