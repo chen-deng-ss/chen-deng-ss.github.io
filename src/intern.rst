@@ -5,7 +5,7 @@ Throughout my academic and practice journey, I have been deeply committed to add
 
 My internships and program experiences have allowed me to develop a diverse skill set in social work, research, and project management while fostering resilience and empowerment in those I serve. 
 
- Principle Investigator
+* Principle Investigator
 
 **"Transformation Project" of the Social Work Department of SICAU, Sichuan Province, China**
 
@@ -20,7 +20,7 @@ My internships and program experiences have allowed me to develop a diverse skil
 
 - Collaborated with community and school stakeholders to create a supportive network for children with intellectual disabilities.  
 
-## Project Assistant
+* Project Assistant
 
 **China Rural Vulnerable Children Social Work Workshop, China**  
 
@@ -46,7 +46,7 @@ My internships and program experiences have allowed me to develop a diverse skil
 
 - Contributed to the development of training materials and resources to support the professional growth of social workers in the region.  
 
-## Research Surveys
+* Research Surveys
 
 **Investigation on the Protection of Minors’ Rights and Interests in China**
 
@@ -64,7 +64,7 @@ My internships and program experiences have allowed me to develop a diverse skil
 
 - Analyzed qualitative and quantitative data to identify challenges faced by frontline social work organizations and inform program improvements.  
 
-## Social Work Evaluation
+* Social Work Evaluation
 
 **Evaluation of One Foundation (SOF) "Safe Farmhouse" Project, Sichuan Province, China**
 
@@ -74,7 +74,7 @@ My internships and program experiences have allowed me to develop a diverse skil
 
 - Provided actionable recommendations to improve program outcomes.  
 
-## Social Work Internships
+* Social Work Internships
 
 **Aiyouxi Community Cultural Development Center: Children Welfare Department, Sichuan Province, China**  
 
@@ -111,7 +111,7 @@ My internships and program experiences have allowed me to develop a diverse skil
 
 - Collaborated with a multidisciplinary team to address the needs of at-risk youth and foster a supportive community environment.  
 
-## Volunteer Experience
+* Volunteer Experience
 
 **“She X Digital Future”: Creative Camp (online)**  
 
