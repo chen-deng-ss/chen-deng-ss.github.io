@@ -1,11 +1,32 @@
 Research
 ========
 
-Background
-----------
-
-Interests
+Research Interests
 ---------
+
+My research focuses on the psychological and social well-being of children and adolescents, particularly those in vulnerable or marginalized contexts.
+
+Through a strength-based lens, I explore how resilience, positive youth development, and meaning in life can buffer the effects of ecological risks, family dysfunction, and broader societal challenges. 
+
+**I am currently excited about:**
+
+* Child and Adolescent Mental Health
+
+* Adverse Childhood Experiences (ACEs)
+
+* Family Resilience, Family Dynamics, and Family Functioning
+
+* Positive Youth Development (PYD)
+
+* Peer Bullying
+
+* Meaning in Life
+
+* Rural and Left-Behind Children
+
+* Family Intervention
+
+* ...
 
 
 Publications
