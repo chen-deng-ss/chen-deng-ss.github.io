@@ -5,7 +5,7 @@ Throughout my academic and practice journey, I have been deeply committed to add
 
 My internships and program experiences have allowed me to develop a diverse skill set in social work, research, and project management while fostering resilience and empowerment in those I serve. 
 
-## Principle Investigator
+ Principle Investigator
 
 **"Transformation Project" of the Social Work Department of SICAU, Sichuan Province, China**
 
