@@ -10,9 +10,9 @@ Welcome to Deng Chen's Homepage!
    :align: right
    :width: 200
 
-*Ph.D. Candidate HKPolyU.*
+*Ph.D. Candidate in HKPolyU.*
 
-*Assistant Social Worker in Mainland China*
+*Qualified Assistant Social Worker*
 
 **DENG Chen**
 
