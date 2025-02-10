@@ -12,7 +12,7 @@ Welcome to Deng Chen's Homepage!
 
 *Ph.D. Candidate in HKPolyU.*
 
-*Qualified Assistant Social Worker*
+*Qualified Assistant Social Worker in Mainland China*
 
 **DENG Chen**
 
