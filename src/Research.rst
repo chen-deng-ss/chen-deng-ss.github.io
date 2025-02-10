@@ -84,4 +84,4 @@ Visiting experiences
 
 Vita
 ----
-An updated cv will be avaialbe upon request.
+It can be found :download:`here <resources/cv.pdf>`. 
