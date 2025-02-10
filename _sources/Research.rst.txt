@@ -84,4 +84,4 @@ Visiting experiences
 
 Vita
 ----
-It can be found :download:`here <resources/cv.pdf>`. 
+It can be found :download:`here <resources/CV-Chen DENG.pdf>`. 
