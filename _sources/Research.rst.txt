@@ -43,17 +43,20 @@ Through a strength-based lens, I explore how resilience, positive youth developm
 
 Publications
 ------------
+#. Deng, C., Yu, L., Shek, D. T. L., & Zhu, X. (2025). The Role of Spirituality and Beliefs in the Future in the Mental Health of Chinese Adolescents During the Pandemic. *Applied Research in Quality of Life*. `[doi] <https://doi.org/10.1007/s11482-025-10466-6>`__
 
-#. Zhou, X., Yu, L.*, Deng, C., Ren, Y., & Du, M. (2024). Everyone is searching for it and those who acquired it enjoy better mental health: A latent profile analysis of Chinese adolescents’ meaning in life. Frontiers in Psychology, 15, 1480499. `[doi] <https://doi.org/10.3389/fpsyg.2024.1480499>`__
+#. Zhuang, J., Deng, C., Fu, L., Ng, J. C. K., & Wu, Q. (2025). Educational Development of Chinese Rural Left-Behind Children: Promotive and Protective Factors at Multilevels. *Child & Family Social Work*, 1–19.  `[doi] <https://doi.org/10.1111/cfs.70016>`__
+
+#. Zhou, X., Yu, L.*, Deng, C., Ren, Y., & Du, M. (2024). Everyone is searching for it and those who acquired it enjoy better mental health: A latent profile analysis of Chinese adolescents’ meaning in life. *Frontiers in Psychology*, 15, 1480499. `[doi] <https://doi.org/10.3389/fpsyg.2024.1480499>`__
 
 
-#. Wan, G., Deng, C., & Li, C*. (2023). Adverse Childhood Experiences and Depression: Do Left-Behind Families Place Children at Higher Risk in Rural China. Journal of Family Violence. `[doi] <https://doi.org/10.1007/s10896-023-00580-0>`__
+#. Wan, G., Deng, C., & Li, C*. (2023). Adverse Childhood Experiences and Depression: Do Left-Behind Families Place Children at Higher Risk in Rural China. *Journal of Family Violence*. `[doi] <https://doi.org/10.1007/s10896-023-00580-0>`__
 
-#. Wan, G., Zhang, L., & Deng, C*. (2023). Cultural heterogeneity, family dysfunction and inadequate school support: Ethnic disparities in bullying victimization within China’s multiethnic regions. Children & Society, chso.12808. `[doi] <https://doi.org/10.1111/chso.12808>`__
+#. Wan, G., Zhang, L., & Deng, C*. (2023). Cultural heterogeneity, family dysfunction and inadequate school support: Ethnic disparities in bullying victimization within China’s multiethnic regions. *Children & Society*, chso.12808. `[doi] <https://doi.org/10.1111/chso.12808>`__
 
-#. Zhu, X.*, Deng, C., & Bai, W. (2023). Parental control and adolescent internet addiction: The moderating effect of parent-child relationships. Frontiers in Public Health, 11, 1190534. `[doi] <https://doi.org/10.3389/fpubh.2023.1190534>`__
+#. Zhu, X.*, Deng, C., & Bai, W. (2023). Parental control and adolescent internet addiction: The moderating effect of parent-child relationships. *Frontiers in Public Health*, 11, 1190534. `[doi] <https://doi.org/10.3389/fpubh.2023.1190534>`__
 
-#. Deng, C*. (2021). The Analysis of Psychological Factors of Different Subjects in School Bullying: Based on the Perspective of Positive Psychology. Adolescent and Children's Studies (08), 55-60+9.
+#. Deng, C*. (2021). The Analysis of Psychological Factors of Different Subjects in School Bullying: Based on the Perspective of Positive Psychology. *Adolescent and Children's Studies* (08), 55-60+9.
 
 *(Corresponding authors are marked with *)* 
 
@@ -85,3 +88,4 @@ Visiting experiences
 Vita
 ----
 It can be found :download:`here <resources/CV-Chen DENG.pdf>`. 
+
